@@ -1,0 +1,51 @@
+UNIVERSIDAD_NOMBRE,CARRERA_NOMBRE,CARRERA_MODALIDAD,MALLA_TIPO,PERFIL_EGRESO,PERIODO_CICLO,ASIGNATURA_NOMBRE,ASIGNATURA_CODIGO,ASIGNATURA_TIPO,ASIGNATURA_HORAS,ASIGNATURA_CREDITOS,URL_ARCHIVO_MALLA
+UTPL,Derecho,Presencial,Unidad Profesional,,1,Introducción al Derecho,DER-PRE-001,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,2,Derecho Romano,DER-PRE-002,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,3,Filosofía del Derecho,DER-PRE-003,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,4,Deontología Jurídica,DER-PRE-004,Obligatoria,144,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,5,Lectura y redacción de textos académicos,DER-PRE-005,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,6,"Humanismo, universidad y cultura",DER-PRE-006,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,7,Derecho Civil: personas,DER-PRE-007,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,8,Derecho Penal: Parte General,DER-PRE-008,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,1,Investigación Jurídica,DER-PRE-009,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,2,Derecho Constitucional,DER-PRE-010,Obligatoria,96,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,3,Pluralismo Jurídico,DER-PRE-011,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,4,Antropología Básica,DER-PRE-012,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,5,Derecho Civil: Bienes,DER-PRE-013,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,6,Derecho Penal: Parte Especial,DER-PRE-014,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,7,Métodos alternativos de resolución de conflictos,DER-PRE-015,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,8,Derecho Procesal Constitucional,DER-PRE-016,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,1,Sociología Jurídica,DER-PRE-017,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,2,Ética y Moral,DER-PRE-018,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,3,Derecho Civil: Sucesiones,DER-PRE-019,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,4,Derecho Procesal General I,DER-PRE-020,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,5,Derecho de Familia,DER-PRE-021,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,6,Derecho Internacional Público,DER-PRE-022,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,7,Practicum 1: Prácticas de Servicio Comunitario,DER-PRE-023,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,8,Derecho Ambiental y conflictos socioambientales,DER-PRE-024,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,1,Derecho Civil: Obligaciones y Contratos,DER-PRE-025,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,2,Derecho Procesal Penal I,DER-PRE-026,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,3,Derecho Administrativo,DER-PRE-027,Obligatoria,240,5,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,4,Derecho Procesal General II,DER-PRE-028,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,5,Derecho Laboral,DER-PRE-029,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,6,Practicum 2: Prácticas pre profesionales,DER-PRE-030,Obligatoria,240,5,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,7,Derecho Mercantil,DER-PRE-031,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,8,Derecho Internacional Privado,DER-PRE-032,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,1,Derechos Humanos,DER-PRE-033,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,2,Derecho Procesal Penal II,DER-PRE-034,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,3,Itinerario I: Derecho Público. Contratación Pública,DER-PRE-035,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,4,Itinerario II: Derecho Privado. Derecho Informático,DER-PRE-036,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,5,Practicum 3: Prácticas pre profesionales,DER-PRE-037,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,6,Derecho Procesal Administrativo,DER-PRE-038,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,7,Derecho Tributario,DER-PRE-039,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,8,Ciencias Forenses y Medicina Legal,DER-PRE-040,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,1,Ejecución de Penas y Rehabilitación Social,DER-PRE-041,Obligatoria,144,3,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,2,Itinerario I: Derecho Público. Descentralización y gobiernos autónomos,DER-PRE-042,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,3,Itinerario II: Derecho Privado. Derecho y Gestión de los Conocimientos,DER-PRE-043,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,4,Practicum 4.1: Trabajo de Integración Curricular/Examen Complexivo,DER-PRE-044,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,5,Ciencia Política,DER-PRE-045,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,6,Derecho Minero,DER-PRE-046,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,7,Derecho Societario,DER-PRE-047,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,8,Practicum 4.2: Trabajo de Integración Curricular/Examen Complexivo,DER-PRE-048,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,1,Litigación Oral y Teoría del Caso,DER-PRE-049,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
+UTPL,Derecho,Presencial,Unidad Profesional,,2,Emprendimiento,DER-PRE-050,Obligatoria,96,2,https://www.utpl.edu.ec/carreras/sites/default/files/carrera_derecho_presencial_utpl_copia.pdf
